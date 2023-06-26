@@ -1,0 +1,7 @@
+# Configura Todo Msg Desde Aqui Para Poder Hacer que sirva bien! recuerda usar {victima} para poder definir al jugador que fue debufeado y {player} para el jugador que lo debufeo
+
+enable.message: "Author: SYNTAXZZ"
+victima.message: "&d{player} &eHas debuffed you"
+player.message: "&eYou have debuffed &d{victima}"
+
+

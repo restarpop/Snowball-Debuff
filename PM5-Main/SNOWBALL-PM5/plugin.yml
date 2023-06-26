@@ -1,0 +1,6 @@
+name: PM5
+api: [5.0.0]
+author: "Syntax"
+version: 0.1
+main: snowball\syntax\Loader
+description: Snowball-PM5
